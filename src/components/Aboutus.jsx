@@ -10,7 +10,7 @@ export const Aboutus = () => {
             desig: "Front-end Development",
             skills: ["UI", "UX", "HTML", "JS", "Java", "Python", "React", "Node"],
             online: true,
-            profile: "2.jpg",
+            profile: "21.jpg",
         },
         {
             name: "Ashwin",
@@ -18,7 +18,7 @@ export const Aboutus = () => {
             desig: "Front-end Development",
             skills: ["UI", "UX", "HTML", "JS", "Java", "Python", "React", "Node"],
             online: false,
-            profile: "3.jpg"
+            profile: "13.jpg"
         }
     ];
 
