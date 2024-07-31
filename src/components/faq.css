@@ -1,0 +1,41 @@
+
+.faq{
+ 
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.faqitem{
+    width: auto;
+    height: auto;
+    margin-bottom: 20px;
+    border:1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.headerr{
+    padding: 15px;
+    cursor: pointer;
+    background-color: aliceblue;
+    font-size: 18px;
+    color:#333;
+    transition: background-color 0.5s ease-in-out;
+}
+.headerr:hover{
+    background-color: #e0e0e0;
+}
+.bodyy{
+    max-height: 0px;
+    overflow: hidden;
+    background-color: #fff;
+    transition: max-height 0.5s ease-in-out;
+}
+ .contentt{
+   
+    padding: 15px;
+    font-size: 15px;
+    color: #555;
+ }
+ .faqitem.active .bodyy{
+    max-height: 300px;
+ }

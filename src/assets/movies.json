@@ -1,0 +1,125 @@
+[
+    {
+      "id": 1,
+      "moviename": "Inception",
+      "director": "Christopher Nolan",
+      "musicdirector": "Hans Zimmer",
+      "genre": "Science Fiction",
+      "ratings": 4.5,
+      "pic":"inception.jpg",
+      "price" :15
+    },
+    {
+      "id": 2,
+      "moviename": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "musicdirector": "Thomas Newman",
+      "genre": "Drama",
+      "ratings": 4.8,
+      "pic":"redemption.jpg",
+      "price" :15
+    },
+    {
+      "id": 3,
+      "moviename": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "musicdirector": "Various Artists",
+      "genre": "Crime",
+      "ratings": 4.7,
+      "pic":"pulp.jpg",
+      "price" :15
+    },
+  
+  
+    {
+      "id": 4,
+      "moviename": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "musicdirector": "Hans Zimmer",
+      "genre": "Action",
+      "ratings": 4.9,
+      "pic":"darkknight.jpg",
+      "price" :15
+    },
+    {
+      "id": 5,
+      "moviename": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "musicdirector": "Alan Silvestri",
+      "genre": "Drama",
+      "ratings": 4.6,
+      "pic":"forest.jpg",
+      "price" :15
+    },
+    {
+      "id": 6,
+      "moviename": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "musicdirector": "Don Davis",
+      "genre": "Science Fiction",
+      "ratings": 4.4,
+      "pic":"matrix.jpg",
+      "price" :15
+    },
+    {
+      "id": 7,
+      "moviename": "Gladiator",
+      "director": "Ridley Scott",
+      "musicdirector": "Hans Zimmer",
+      "genre": "Historical Drama",
+      "ratings": 4.7,
+      "pic":"gla.jpg",
+      "price" :15
+    },
+    {
+      "id": 8,
+      "moviename": "Inglourious Basterds",
+      "director": "Quentin Tarantino",
+      "musicdirector": "Various Artists",
+      "genre": "War",
+      "ratings": 4.5,
+      "pic":"it.jpg",
+      "price" :15
+    },
+    {
+      "id": 9,
+      "moviename": "The Social Network",
+      "director": "David Fincher",
+      "musicdirector": "Trent Reznor, Atticus Ross",
+      "genre": "Biography",
+      "ratings": 4.3,
+      "pic":"social.jpg",
+      "price" :15
+    },
+    {
+      "id": 10,
+      "moviename": "Interstellar",
+      "director": "Christopher Nolan",
+      "musicdirector": "Hans Zimmer",
+      "genre": "Science Fiction",
+      "ratings": 4.8,
+      "pic":"interstellar.jpg",
+      "price" :15
+    },
+    {
+      "id": 11,
+      "moviename": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "musicdirector": "Nino Rota",
+      "genre": "Crime",
+      "ratings": 4.9,
+      "pic":"godf.jpg",
+      "price" :15
+    },
+    {
+      "id": 12,
+      "moviename": "Eternal Sunshine ",
+      "director": "Michel Gondry",
+      "musicdirector": "Jon Brion",
+      "genre": "Romance",
+      "ratings": 4.6,
+      "pic":"l.jpg",
+      "price" :15
+    }
+  ]
+  
