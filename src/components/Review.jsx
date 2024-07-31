@@ -27,7 +27,7 @@ export const Review = () => {
 
   const fetchSuggestions = (query) => {
     try {
-      let url = `http://www.omdbapi.com/?s=${query}&apikey=${key}`;
+      let url = `https://www.omdbapi.com/?s=${query}&apikey=${key}`;
       fetch(url)
         .then((resp) => resp.json())
         .then((data) => {
@@ -45,7 +45,7 @@ export const Review = () => {
   const search = (movieTitle) => {
     try {
       
-      let url = `http://www.omdbapi.com/?t=${movieTitle}&apikey=${key}`;
+      let url = `https://www.omdbapi.com/?t=${movieTitle}&apikey=${key}`;
       fetch(url)
         .then((resp) => resp.json())
         .then((data) => {
